@@ -6,6 +6,8 @@ title: Home
 
 # 👩🏽‍💻 Priscilla Lola Adenuga
 
+[Home](./) | [Research](./research.md) | [Talks](#-talks) | [Contact](#-contact)
+
 ## Linguistics → NLP | Structure-Aware Language Modeling
 
 Welcome to my research and learning space at the intersection of linguistics and Natural Language Processing.
