@@ -4,14 +4,11 @@ layout: default
 title: Home
 ---
 
-# 👩🏽‍💻 Priscilla Lola Adenuga
+# Priscilla Lola Adenuga
 
-[Home](./) | [Research](./research.md) | [Talks](#-talks) | [Contact](#-contact)
+Linguistics | NLP | Low-Resource Language Research
 
-## Linguistics → NLP | Structure-Aware Language Modeling
-
-Welcome to my research and learning space at the intersection of linguistics and Natural Language Processing.
-
+[Home](./) | [Research](./research.md) | [Talks](#talks) | [Contact](#contact)
 ---
 
 ## 🔬 About Me
