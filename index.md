@@ -1,45 +1,48 @@
 ---
 layout: default
 title: Home
-theme: minima
 ---
 
 # Priscilla Lola Adenuga
 
-Linguistics | NLP | Low-Resource Language Research
+Linguistics × NLP | Low-Resource Languages | Structure-Aware AI Evaluation
 
 [Home](./) | [Research](./research.md) | [Talks](./talks.md) | [Contact](#contact)
 ---
-## 👩🏽‍🔬 Profile
 
-**Name:** Priscilla Lola Adenuga  
-**Field:** Linguistics & Natural Language Processing (NLP)  
-**Focus:** Syntax, Low-Resource Languages, Model Evaluation  
-
-I work at the intersection of linguistic theory and NLP, with a focus on how structural insights from language can improve evaluation and modeling in low-resource settings.
 ## 🔬 About Me
 
-I am a linguist with a PhD in Syntax, currently transitioning into NLP. My work focuses on how linguistic structure can improve model evaluation, especially in low-resource settings.
+I am a linguist with a PhD in Syntax, working at the intersection of linguistic theory and Natural Language Processing (NLP).
+
+My work focuses on how structural insights from language can improve model evaluation, particularly in low-resource settings. I am especially interested in how linguistic phenomena such as negation, ambiguity, and modifier structure reveal limitations in current NLP systems.
+
 ---
 
 ## 🧩 Research & Projects
 
 ### 🔍 Syntax-Informed Negation in NLP
-Exploring how syntactic structure influences the interpretation of negation in NLP models. This work investigates how different types of negation (e.g., verbal, adjectival, discourse-level) affect model predictions and evaluation outcomes.
+
+Investigating how syntactic structure shapes the interpretation of negation in NLP models. This project examines distinctions between verbal, adjectival, and discourse-level negation, and how these affect model predictions and evaluation outcomes.
 
 ---
 
 ### 🌍 Low-Resource Languages as Stress Tests
-Using underrepresented languages to reveal hidden weaknesses in NLP systems, particularly in annotation, ambiguity, and evaluation. This work highlights how data assumptions impact model behavior.
+
+Using underrepresented languages as a lens to expose hidden weaknesses in NLP systems, particularly in annotation practices, ambiguity resolution, and evaluation design. This work argues that low-resource data can serve as a diagnostic tool for model robustness.
 
 ---
 
 ### 📊 Linguistically-Informed Evaluation
-Developing evaluation approaches that incorporate linguistic structure, moving beyond surface-level metrics to better capture meaning and interpretation in NLP systems.
+
+Developing evaluation approaches that incorporate linguistic structure, moving beyond surface-level metrics to better capture meaning, interpretation, and model behavior in multilingual NLP systems.
 
 ---
 
-## 🎤 Talks
+## 🎤 Selected Talks
+
+Berlin Buzzwords 2026
+Low-Resource Languages as Stress Tests for NLP Data
+Berlin, Germany
 
 For a full list of talks and presentations, see the [Talks page](./talks.md).
 
@@ -48,4 +51,4 @@ For a full list of talks and presentations, see the [Talks page](./talks.md).
 ## 📬 Contact
 
 - LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/in/dr-priscilla-adenuga-b84529181/) 
-- Email: (adenuga@lingua.uni-frankfurt.de)
+- Email: adenuga@lingua.uni-frankfurt.de
