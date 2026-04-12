@@ -41,8 +41,7 @@ Developing evaluation approaches that incorporate linguistic structure, moving b
 
 ## 🎤 Talks
 
-* Berlin Buzzwords 2026
-  *Low-resource languages as stress tests for NLP*
+For a full list of talks and presentations, see the [Talks page](./talks.md).
 
 ---
 
