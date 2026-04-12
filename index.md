@@ -8,7 +8,7 @@ title: Home
 
 Linguistics | NLP | Low-Resource Language Research
 
-[Home](./) | [Research](./research.md) | [Talks](#talks) | [Contact](#contact)
+[Home](./) | [Research](./research.md) | [Talks](./talks.md) | [Contact](#contact)
 ---
 
 ## 🔬 About Me
