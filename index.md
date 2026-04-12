@@ -22,11 +22,20 @@ I work at the intersection of linguistic theory and NLP, with a focus on how str
 I am a linguist with a PhD in Syntax, currently transitioning into NLP. My work focuses on how linguistic structure can improve model evaluation, especially in low-resource settings.
 ---
 
-## 🚧 What I’m Working On
+## 🧩 Research & Projects
 
-* Negation and syntactic structure in NLP
-* Low-resource languages as stress tests
-* Linguistically-informed evaluation methods
+### 🔍 Syntax-Informed Negation in NLP
+Exploring how syntactic structure influences the interpretation of negation in NLP models. This work investigates how different types of negation (e.g., verbal, adjectival, discourse-level) affect model predictions and evaluation outcomes.
+
+---
+
+### 🌍 Low-Resource Languages as Stress Tests
+Using underrepresented languages to reveal hidden weaknesses in NLP systems, particularly in annotation, ambiguity, and evaluation. This work highlights how data assumptions impact model behavior.
+
+---
+
+### 📊 Linguistically-Informed Evaluation
+Developing evaluation approaches that incorporate linguistic structure, moving beyond surface-level metrics to better capture meaning and interpretation in NLP systems.
 
 ---
 
