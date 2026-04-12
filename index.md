@@ -1,7 +1,7 @@
 ---
-
 layout: default
 title: Home
+theme: minima
 ---
 
 # Priscilla Lola Adenuga
