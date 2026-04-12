@@ -39,5 +39,5 @@ I am a linguist with a PhD in Syntax, currently transitioning into NLP. My work 
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/your-profile  
-- Email: (optional, if you want)
+- LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/in/dr-priscilla-adenuga-b84529181/) 
+- Email: (adenuga@lingua.uni-frankfurt.de)
