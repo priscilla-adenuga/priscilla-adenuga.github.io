@@ -91,6 +91,6 @@ Exploratory NLP analysis examining linguistic patterns and variation across text
 
 ## 📬 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- - [LinkedIn](https://www.linkedin.com/in/dr-priscilla-adenuga-b84529181/)
 - [GitHub](https://github.com/priscilla-adenuga)
 - [Email Me](mailto:priscillalola_adenuga@yahoo.com)
