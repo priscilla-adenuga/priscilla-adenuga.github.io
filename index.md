@@ -73,6 +73,6 @@ GitHub repositories and project materials are available on my GitHub profile.
 
 ## 📬 Contact
 
-- LinkedIn: View my LinkedIn profile
-- GitHub: https://github.com/priscilla-adenuga
-- Email: priscillalola_adenuga@yahoo.com
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- [GitHub](https://github.com/priscilla-adenuga)
+- [Email Me](mailto:priscillalola_adenuga@yahoo.com)
