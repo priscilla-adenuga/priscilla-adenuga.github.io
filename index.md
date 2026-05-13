@@ -79,13 +79,13 @@ See the [Publications](publications.html) page for a complete list.
 
 Research project accompanying my Berlin Buzzwords 2026 talk on low-resource languages and NLP evaluation.
 
-### [Linguistically Informed NLP Evaluation](https://github.com/priscilla-adenuga)
+### [Linguistically Informed NLP Evaluation](https://github.com/priscilla-adenuga/linguistically-informed-nlp-evaluation)
 
 Exploring how linguistic phenomena such as negation, ambiguity, and modifier structure reveal limitations in NLP systems.
 
-### [Ògè Language Research Resources](https://github.com/priscilla-adenuga)
+### [POS Patterns & Genre Comparison](https://github.com/priscilla-adenuga/pos-patterns-genre-comparison)
 
-Materials related to nominal structure, corpus development, and low-resource language research.
+Exploratory NLP analysis examining linguistic patterns and variation across textual genres.
 
 ---
 
