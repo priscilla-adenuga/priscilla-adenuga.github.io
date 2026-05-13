@@ -5,50 +5,74 @@ title: Home
 
 # Priscilla Lola Adenuga
 
-Linguistics × NLP | Low-Resource Languages | Structure-Aware AI Evaluation
+### Bridging Linguistic Structure and NLP Evaluation
 
-[Home](./) | [Research](./research.md) | [Talks](./talks.md) | [Contact](#contact)
+PhD Linguist (Syntax) working at the intersection of theoretical linguistics and Natural Language Processing (NLP), with a focus on low-resource languages, linguistic structure, and structure-aware AI evaluation.
+
 ---
 
 ## 🔬 About Me
 
-I am a linguist with a PhD in Syntax, working at the intersection of linguistic theory and Natural Language Processing (NLP).
+My research explores how structural properties of language shape interpretation and how these insights can improve the evaluation of NLP systems.
 
-My work focuses on how structural insights from language can improve model evaluation, particularly in low-resource settings. I am especially interested in how linguistic phenomena such as negation, ambiguity, and modifier structure reveal limitations in current NLP systems.
+I am particularly interested in linguistic phenomena such as negation, ambiguity, modifier structure, and underspecification, and in what model behavior on these phenomena reveals about the strengths and limitations of current NLP systems.
+
+My work also investigates how low-resource and underrepresented languages can serve as diagnostic tools for evaluating robustness and representation in multilingual NLP.
 
 ---
 
-## 🧩 Research & Projects
+## 🧩 Research Areas
 
 ### 🔍 Syntax-Informed Negation in NLP
-
-Investigating how syntactic structure shapes the interpretation of negation in NLP models. This project examines distinctions between verbal, adjectival, and discourse-level negation, and how these affect model predictions and evaluation outcomes.
-
----
+Investigating how syntactic structure shapes the interpretation of negation in NLP models, including distinctions between verbal, adjectival, and discourse-level negation.
 
 ### 🌍 Low-Resource Languages as Stress Tests
+Exploring how underrepresented languages reveal hidden weaknesses in NLP systems, particularly in annotation practices, ambiguity resolution, and evaluation design.
 
-Using underrepresented languages as a lens to expose hidden weaknesses in NLP systems, particularly in annotation practices, ambiguity resolution, and evaluation design. This work argues that low-resource data can serve as a diagnostic tool for model robustness.
-
----
-
-### 📊 Linguistically-Informed Evaluation
-
-Developing evaluation approaches that incorporate linguistic structure, moving beyond surface-level metrics to better capture meaning, interpretation, and model behavior in multilingual NLP systems.
+### 📊 Linguistically Informed Evaluation
+Developing evaluation approaches that incorporate linguistic structure and interpretation, moving beyond surface-level metrics to better capture model behavior in multilingual NLP systems.
 
 ---
 
 ## 🎤 Selected Talks
 
-Berlin Buzzwords 2026
-Low-Resource Languages as Stress Tests for NLP Data
+### Berlin Buzzwords 2026
+**Low-Resource Languages as Stress Tests for NLP Data**  
 Berlin, Germany
 
-For a full list of talks and presentations, see the [Talks page](./talks.md).
+### RAIL @ LREC-COLING 2026
+**A Morpho-Syntactically Annotated Corpus of Ògè Folk Narratives with a Focus on Nominal Structure**  
+Palma de Mallorca, Spain
+
+For a full list of talks and presentations, see the [Talks](talks.html) page.
+
+---
+
+## 📚 Publications
+
+Recent work includes research on:
+- nominal structure in Ògè
+- negation and focus constructions
+- nominal attributive modifiers
+- plural marking and modification
+
+See the [Publications](publications.html) page for a complete list.
+
+---
+
+## 🛠 Projects & Repositories
+
+- Linguistically Informed NLP Evaluation
+- Low-Resource Languages as Stress Tests for NLP
+- Ògè Language Research Resources
+- NLP Experiments and Evaluation Notes
+
+GitHub repositories and project materials are available on my GitHub profile.
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/in/dr-priscilla-adenuga-b84529181/) 
-- Email: adenuga@lingua.uni-frankfurt.de
+- LinkedIn: View my LinkedIn profile
+- GitHub: https://github.com/priscilla-adenuga
+- Email: priscillalola_adenuga@yahoo.com
